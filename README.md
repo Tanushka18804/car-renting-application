@@ -1,1 +1,10 @@
 The Car Renting System is a mini project designed to simplify the process of renting a car for customers. The system allows users to browse and book cars based on their preferences, such as car type, rental duration, and availability. The main goal is to provide a user-friendly platform where customers can quickly find and reserve the car they need for their journey.
+A simple car rental backend with MySQL database support.
+
+Features
+Rent a car
+Update rental dates
+Delete car rental
+Fetch all rental records
+Automatically calculates total amount
+MySQL database integration
